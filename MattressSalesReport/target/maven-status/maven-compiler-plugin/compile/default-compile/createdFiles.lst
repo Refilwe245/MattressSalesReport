@@ -1,0 +1,6 @@
+com\mycompany\mattresssalesreport\Q1\PrintProduct.class
+com\mycompany\mattresssalesreport\Q1\IProduct.class
+com\mycompany\mattresssalesreport\Q1\Product.class
+com\mycompany\mattresssalesreport\Q2\IProductCalculations.class
+com\mycompany\mattresssalesreport\MattressSalesReport.class
+com\mycompany\mattresssalesreport\Q1\ProductSalesReport.class
